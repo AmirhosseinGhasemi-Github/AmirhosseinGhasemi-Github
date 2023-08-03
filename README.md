@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Amirhossein Ghasemi
 - 👀 I’m interested in intercultural activities and programming 
-- 🌱 I’m currently learning HTML,CSS, JS
+- 🌱 I’m a Frontend developer.
+-  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Amirhosseinn.ghasemi@gmail.com
 
 <!---
 AmirhosseinGhasemi-Github/AmirhosseinGhasemi-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
