@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amirhossein Ghasemi
 - 👀 I’m interested in intercultural activities and programming 
-- 🌱 I’m a Frontend developer.
+
 -  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Amirhosseinn.ghasemi@gmail.com
